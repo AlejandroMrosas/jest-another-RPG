@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroMrosas/jest-another-RPG.git"
+  },
+  "author": "Alejandro Rosas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroMrosas/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/AlejandroMrosas/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
